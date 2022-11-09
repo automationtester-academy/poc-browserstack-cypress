@@ -1,7 +1,7 @@
 {
   "auth": {
     "username": "alee_kvQRnt",
-    "access_key": "Vd1Bon8JqQupqABzwFmf"
+    "access_key": "3aybaG9qNz6VZyQqCF6d"
   },
   "browsers": [
     {
@@ -11,16 +11,15 @@
     },
     {
       "browser": "firefox",
-      "os": "Windows 10",
+      "os": "OS X Catalina",
       "versions": ["latest", "latest-1"]
     }
   ],
   "run_settings": {
     "cypress_config_file": "./cypress.config.js",
     "cypress_version": "10",
-    "project_name": "poc-ata-cypress-browserstack",
-    "build_name": "Automated Tests Build",
-    "exclude": [],
+    "project_name": "POC ATA Cypress Browserstack",
+    "build_name": "Automated Tests",
     "parallels": 5,
     "npm_dependencies": {
       "cypress": "^10.11.0"
